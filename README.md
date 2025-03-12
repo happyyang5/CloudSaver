@@ -9,6 +9,8 @@
 
 官方Telegram群组：[https://t.me/cloud_saver](https://t.me/cloud_saver)
 
+# My Project
+![Docker Pulls](https://img.shields.io/docker/pulls/jiangrui1994/cloudsaver.svg)
 ## 功能特性
 
 - 🔍 多源资源搜索
